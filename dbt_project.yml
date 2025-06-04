@@ -4,7 +4,7 @@ config-version: 2
 
 profile: default
 
-model-paths: ["dbt_models"]
+model-paths: ["dbt_sf"]
 analysis-paths: ["analyses"]
 test-paths: ["tests"]
 seed-paths: ["seeds"]
